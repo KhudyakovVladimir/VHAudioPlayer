@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VHAudioPlayer</string>
+    <string name="copy"/>
+    <string name="delete"/>
+    <string name="remove"/>
+    <string name="rename"/>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
